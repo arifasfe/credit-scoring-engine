@@ -17,6 +17,3 @@ We have created a demo user interface using react in the front-end and django in
 ![3](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/f640586a-f372-4f21-a482-c6033429b2d9)
 ### Loan Prediction Result Page
 ![4](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/dd186106-6e67-4dc7-b4f4-ab44a97b9459)
-
-## Documentation
-[Credit Score Engine For Loan Disbursement - Documentation.pdf](https://github.com/arifasfe/credit-scoring-engine/files/12885571/Credit.Score.Engine.For.Loan.Disbursement.-.Documentation.pdf)
